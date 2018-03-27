@@ -11,7 +11,7 @@ package tv;
  */
 public class class_tv {
     String merek;
-    double harga;
+    Integer harga;
     String jenis;
     String ukuran;
     String warna;
@@ -21,6 +21,6 @@ public class class_tv {
         System.out.println("harga tv : "+harga);
         System.out.println("jenis tv : "+jenis);
         System.out.println("ukuran layar tv : "+ukuran);
-        System.out.println("warna tv : "+warna);
+        System.out.println("warna tv : "+warna+"\n");
     }
 }
