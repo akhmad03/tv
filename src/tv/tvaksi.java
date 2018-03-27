@@ -11,6 +11,9 @@ package tv;
  */
 public class tvaksi {
     public static void main(String[] args) {
-        
+        class_tv adam = new class_tv();
+        class_tv memed = new class_tv();
+        class_tv ujang = new class_tv();
+    
     }
 }
