@@ -10,5 +10,17 @@ package tv;
  * @author windows 10
  */
 public class class_tv {
+    String merek;
+    double harga;
+    String jenis;
+    String ukuran;
+    String warna;
     
+    void nonton(){
+        System.out.println("merek tv : "+merek);
+        System.out.println("harga tv : "+harga);
+        System.out.println("jenis tv : "+jenis);
+        System.out.println("ukuran layar tv : "+ukuran);
+        System.out.println("warna tv : "+warna);
+    }
 }
