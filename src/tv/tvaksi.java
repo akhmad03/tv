@@ -35,5 +35,9 @@ public class tvaksi {
         ujang.jenis="LED";
         ujang.ukuran="24 inch";
         ujang.warna="silver";
+        
+        adam.nonton();
+        memed.nonton();
+        ujang.nonton();
     }
 }
